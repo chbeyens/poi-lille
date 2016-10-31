@@ -1,0 +1,21 @@
+/*	Ma	jolie	feuille	de	style.	*/
+	body {background-color:blue;background-image: url("../img/image.jpg") }
+.red-right-aligned {color:red; text-align:right; }
+
+div p{ text-indent: 10px; }
+div.mydiv p {text-indent: 20px; }
+div p.myp {text-indent: 40px; }
+div.mydiv p.myp {text-indent:80; }
+div.mps {margin-left:20px; 
+margin-top:40px; 
+border-left-style:solid; 
+border-left-width:thin; 
+border-left-color:#E90047; 
+border-right-style:solid; 
+border-right-width:thick; 
+border-right-color:#03C035; 
+border-top-style:dotted; 
+border-top-width:medium; 
+border-top-color:blue;  
+padding:10px; 
+background-color:#E5B8EA; }
